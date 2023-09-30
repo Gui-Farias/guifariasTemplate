@@ -1,18 +1,7 @@
-# create-svelte
+# Template para projetos com Svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Base para landing pages a serem desenvolvida com Svelte e Scss utilizando o designer atomic para organizações dos arquivos
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
 ## Developing
 
